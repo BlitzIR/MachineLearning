@@ -1,8 +1,8 @@
-### MachineLearning
+# MachineLearning
 Machine Learning for CS400
 
-## Sources
-# AgglomerateHierarchicalClusterLearning
+# Sources
+### AgglomerateHierarchicalClusterAnalysis
   Code modified from:
 
 Mayank, K. (2021, July 8). Agglomerative clustering [Kaggle notebook]. Kaggle. https://www.kaggle.com/code/keshmayank/agglomerative-clusteringLinks to an external site.. Retrieved January 23, 2025.
